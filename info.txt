@@ -1,0 +1,3 @@
+Funcoes do sistema:
+
+alerta > Exibe mensagem ao usuario
